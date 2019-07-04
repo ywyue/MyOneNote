@@ -1,2 +1,2 @@
 ## 7.3
-### Today I write 5 summaries about the extraction about traffic signs. 
+### Today I wrote 5 summaries about the automatic extraction of traffic signs. 
